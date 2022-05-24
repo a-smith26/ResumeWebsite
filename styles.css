@@ -70,10 +70,6 @@ header .social-nav {
   background-color: #637580;
 }
 
-.social-nav .sn-instagram {
-  background: url('./images/instagram.svg') no-repeat 50% 50%;
-  background-color: #E1306C;
-}
 
 .social-nav .sn-website{
   background: url('./images/linkedin.svg') no-repeat 50% 50%;
